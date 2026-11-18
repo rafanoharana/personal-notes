@@ -7,9 +7,9 @@
 
 ## Latest Finds
 
+- [PostGIS spatial joins, translated to DuckDB](https://www.geomermaids.com/cookbook/duckdb-spatial/): How to write fast spatial joins in DuckDB, translated from PostGIS. From [[SQL]].
 - [QGIS: Spatial without Compromise](https://www.qgis.org/): Free and open-source desktop GIS for map making, editing, analysis and publishing. From [[Cartography]].
 - [Agentic Coding for Geospatial (November 2026)](https://spatialthoughts.com/training/agentic_coding_geospatial_20261116/): Spatial Thoughts course on using Claude Code for geospatial work. From [[Agentic_Coding]].
-- [Stop using LST to quantify heat hazard](https://www.linkedin.com/feed/update/urn:li:activity:7478690057026207745/): Why satellite surface temperature maps overstate heat hazard. From [[Remote_Sensing]].
 
 ## Topics
 
@@ -28,3 +28,4 @@
 - [[Deep_Learning]]: Deep learning models and their applications.
 - [[Embeddings]]: Vector embeddings, especially Earth embeddings.
 - [[Python]]: Python packages, tools and techniques.
+- [[SQL]]: SQL databases and query engines, including spatial SQL with PostGIS and DuckDB.
